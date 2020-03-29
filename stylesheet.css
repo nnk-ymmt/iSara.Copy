@@ -1,7 +1,7 @@
 html, body {
+  font-family: "Hiragino Kaku Gothic Pro";
   padding: 0;
   margin: 0;
-  font-family: "Hiragino Kaku Gothic Pro";
   color: #333333;
   letter-spacing: 0.1rem;
 }
@@ -60,10 +60,10 @@ header {
 /*--- top ---*/
 
 .top {
-  background-image: url(../img/main.jpg);
-  background-size: cover;
   height: 575px;
   text-align: center;
+  background-image: url(img/main.jpg);
+  background-size: cover;
 }
 
 h1 {
@@ -183,7 +183,7 @@ h1 {
 /*--- intro ---*/
 
 .intro {
-  background-image: url(../img/introbottom.jpg);
+  background-image: url(img/introbottom.jpg);
   background-size: cover;
   height: 422px;
   padding-top: 40px;
@@ -346,7 +346,7 @@ strong {
 /*--- steps ---*/
 
 .steps {
-  background-image: url(../img/aboutsecondbg.jpg);
+  background-image: url(img/aboutsecondbg.jpg);
   background-size: cover;
   height: 440px;
 }
